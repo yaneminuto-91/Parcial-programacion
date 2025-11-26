@@ -6,9 +6,7 @@ package CasaCambio;
  * <p>Esta clase hereda de la clase abstracta {@link Moneda} y define los valores específicos
  * para el Dólar, incluyendo su nombre, código y su valor de cambio respecto a la moneda base (COP).</p>
  *
- * @author Tu Nombre
- * @version 1.0
- * @see Moneda
+ * @yane
  */
 public class USD extends Moneda {
     /**

@@ -5,8 +5,7 @@ package CasaCambio;
  * <p>Es la clase principal del proyecto y el **punto de inicio** de la aplicación Java.</p>
  * <p>Su única responsabilidad es iniciar la interfaz gráfica de usuario (GUI).</p>
  *
- * @author Tu Nombre
- * @version 1.0
+ * @yane
  */
 public class Main {
     /**

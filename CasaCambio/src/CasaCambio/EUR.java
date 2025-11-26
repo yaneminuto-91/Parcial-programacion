@@ -6,9 +6,7 @@ package CasaCambio;
  * <p>Esta clase hereda de la clase {@link Moneda} y define los valores específicos
  * para el Euro, incluyendo su nombre, código y tasa de cambio (valor).</p>
  *
- * @author Tu Nombre (o el nombre del autor del proyecto)
- * @version 1.0
- * @see Moneda
+ * @yane
  */
 public class EUR extends Moneda {
     /**

@@ -10,8 +10,7 @@ import java.util.Locale;
  * <p>Esta clase se utiliza para almacenar los detalles de cada conversión realizada, 
  * lo que permite a la {@code CasaDeCambio} mantener un historial.</p>
  *
- * @author Tu Nombre
- * @version 1.0
+ * @yane
  */
 public class Transaccion {
 

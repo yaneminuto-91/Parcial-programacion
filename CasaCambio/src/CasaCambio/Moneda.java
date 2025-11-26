@@ -9,8 +9,7 @@ package CasaCambio;
  * <p>Contiene la lógica fundamental para realizar la conversión entre cualquier par de monedas, 
  * utilizando el Peso Colombiano (COP) como moneda de referencia base.</p>
  *
- * @author Tu Nombre
- * @version 1.0
+ * @Yane
  */
 public abstract class Moneda {
 
@@ -44,7 +43,7 @@ public abstract class Moneda {
     /**
      * Obtiene el nombre completo de la moneda.
      *
-     * @return El nombre de la moneda.
+     * @return El nombre de la moneda.(encapsular get recibir)
      */
     public String getNombre() { return nombre; }
     

@@ -8,9 +8,7 @@ import javax.swing.*;
  * <p>Extiende de {@link JFrame} y su propósito es dar la bienvenida y proporcionar un botón 
  * para iniciar la interfaz principal de la Casa de Cambio.</p>
  *
- * @author Tu Nombre
- * @version 1.0
- * @see Interfaz
+ * @yane
  */
 public class PantallaBienvenida extends JFrame {
 

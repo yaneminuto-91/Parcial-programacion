@@ -11,9 +11,7 @@ import java.util.Locale;
  * <p>Esta clase extiende de {@link JFrame} y se encarga de construir todos los elementos visuales 
  * (botones, campos de texto, listas) y manejar la interacción del usuario para las conversiones y el historial.</p>
  *
- * @author Tu Nombre
- * @version 1.0
- * @see CasaDeCambio
+ * @yane
  */
 public class Interfaz extends JFrame {
 

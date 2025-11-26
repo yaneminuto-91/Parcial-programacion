@@ -9,9 +9,7 @@ import java.awt.*;
  * historial de transacciones realizadas en la Casa de Cambio.</p>
  * <p>Permite visualizar, hacer scroll sobre la lista y ofrece una opción para borrar todo el historial.</p>
  *
- * @author Tu Nombre
- * @version 1.0
- * @see CasaDeCambio
+ * @yane
  */
 public class VentanaHistorial extends JFrame {
 

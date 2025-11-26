@@ -8,14 +8,13 @@ import java.util.ArrayList;
  * Se encarga de manejar las operaciones de conversión de monedas y 
  * de mantener un registro de todas las transacciones realizadas.</p>
  *
- * @author Tu Nombre
- * @version 1.0
+ * @yane
  */
 public class CasaDeCambio {
 
     /**
-     * Lista privada que almacena todas las transacciones realizadas
-     * en esta instancia de la casa de cambio.
+     * Lista privada (encapsulamiento)que almacena todas las transacciones realizadas
+     * en esta instancia de la casa de cambio(inicializa la estructura de datos llamada historial).
      */
     private ArrayList<Transaccion> historial = new ArrayList<>();
 
